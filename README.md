@@ -21,7 +21,7 @@ Let's bring our webpage to life with some JavaScript. Imagine being able to uplo
 Let's make sure our webpage is accessible to all users. This could include adding more descriptive alt text for images, ensuring sufficient color contrast, and adding ARIA attributes where necessary. 🌐
 
 ## 📸 Visuals
-Before we dive into the screenshots of our webpage, let's meet the inspiration behind the project's file name. Meet Ruby, the cat who started it all! She's not just a cat, she's a muse. 😺
+Before we dive into the screenshots of our webpage, let's meet the inspiration behind the project's file name. Meet Ruby, my lovely cat! She's not just a cat, she's a muse. 😺
 
 ![Ruby](https://github.com/TommyDeLeon/ruby.html/assets/144635056/1034ebc8-e55f-482a-a5fd-2cedf0585cd2)
 
